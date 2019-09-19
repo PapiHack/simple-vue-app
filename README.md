@@ -1,4 +1,6 @@
-# vue-app
+# A simple vue app  
+
+A simple vue app which demonstrate dynamic components and slots !
 
 > A Vue.js project
 
